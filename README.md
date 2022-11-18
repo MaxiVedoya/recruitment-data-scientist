@@ -27,7 +27,7 @@ All this data has been consolidated in a single database, included in this repo,
 We want to answer the following question with actionable insights that help our clients make better creative decisions while ideating their incoming campaigns. For this, we have outlined the following questions:
 
 - **Which are the creative elements that drive higher ad performance?**
-To address this question we seek to show a quantitative analysis on the correlation between tags featured in ads and the ad's performance. Ultimately, we are interested in seeing which are the tags that best predict ad performance. This can be done by leveraging various concepts from statistical analysis, including regression models (linear, tree based, etc.), predictive performance and correlation metrics and any other analytical methodology you find suitable.
+To address this question we seek to show a quantitative analysis on the correlation between tags featured in ads and the ad's performance. Ultimately, we are interested in seeing which are the tags that best predict ad performance. For this reason, you are encouraged to try out different machine learning models that allow you to extract interpretable measure of each tags importance, accounting for their correlation with performance and their predictive power. Previous approaches have included Lasso regression models, tree-based models and others.
 
 - **Which creative elements should be included more in the client's ads and which should be used less?**
 Having identified which tags impact more in an ad's performance, we seek to compare those results with the usage frequency of said tags. Frequency can be defined as the percentage of ads that feature a specific tag from the total amount of ads under analysis. For reference, you can see here a conceptual plot that can help you while extracting insights for this item.
@@ -38,10 +38,10 @@ Having identified which tags impact more in an ad's performance, we seek to comp
 
 Please fork this repository to prevent overwriting the task’s description.
 
-**You will have 24 hrs since you receive this test to complete it**. Once the task is completed, please push to a Github repository and make sure to add the following users as collaborators:
+**You will have 48 hrs since you receive this test to complete it**. Once the task is completed, please push to a Github repository and make sure to add the following users as collaborators:
 
 - [JHevia23](https://github.com/JHevia23)
-- [ppfreitas](https://github.com/ppfreitas)
+- [jraad-memorable](https://github.com/jraad-memorable)
 
 Finally, notify by email to your recruitment contact. As part of the deliverable, you are expected to share:
 
